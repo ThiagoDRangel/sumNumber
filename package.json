@@ -1,0 +1,11 @@
+{
+  "name": "sumnumber",
+  "version": "1.0.0",
+  "description": "soma numeros inteiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ThiagoDRangel",
+  "license": "ISC"
+}
